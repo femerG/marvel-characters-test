@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MarvelCharacters
+
+  Created by Femer Garcia on 7/4/23.
+  
+*/
+"title" = "Marvel Characters";
+"comics" = "Comics";
+"series" = "Series";
+"no_description_available" = "No description available";
+"search_character" = "Search character";
